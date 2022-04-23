@@ -1,0 +1,46 @@
+{
+    "editor.formatOnSave": true,
+    "editor.renderWhitespace": "all",
+    "diffEditor.ignoreTrimWhitespace": false,
+  
+    "editor.defaultFormatter": "dbaeumer.vscode-eslint",
+    "eslint.format.enable": true,
+  
+
+    "git.suggestSmartCommit": false,
+  
+    "window.restoreFullscreen": true,
+    "window.newWindowDimensions": "fullscreen",
+    "workbench.activityBar.visible": false,
+    "workbench.sideBar.location": "right",  
+    "workbench.startupEditor": "none",
+  
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "typescript.preferences.importModuleSpecifier": "non-relative",
+    "workbench.editor.showTabs": true,
+    "files.exclude": {
+        "**/lib": true,
+        "**/node_modules": true
+    },
+    "terminal.integrated.tabs.focusMode": "singleClick",
+    "terminal.integrated.fontFamily": "'SourceCodePro+Powerline+Awesome Regular'",
+    "indentRainbow.colors": [
+        "rgba(255,255,64,0.05)",
+        "rgba(127,255,127,0.05)",
+        "rgba(255,127,255,0.05)",
+        "rgba(79,236,236,0.05)"
+    ],
+    "indentRainbow.lightIndicatorStyleLineWidth": 1,
+    "indentRainbow.errorColor": "rgba(128,32,32,0.6)",
+    "indentRainbow.tabmixColor": "rgba(128,32,96,0.6)",
+
+    "editor.bracketPairColorization.enabled": true,
+    "window.zoomLevel": 1,
+    "workbench.colorCustomizations": {
+        "editorBracketHighlight.foreground1": "#ffffff",
+        "editorBracketHighlight.foreground2": "#ffabde",
+        "editorBracketHighlight.foreground3": "#a8fbff",
+    },
+    "workbench.iconTheme": "vscode-icons",
+    "tabnine.experimentalAutoImports": true,
+}
