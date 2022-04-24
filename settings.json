@@ -42,5 +42,12 @@
         "editorBracketHighlight.foreground3": "#a8fbff",
     },
     "workbench.iconTheme": "vscode-icons",
-    "tabnine.experimentalAutoImports": true,
+    "editor.suggestSelection": "recentlyUsed",
+    "editor.suggest.showUsers": false,
+    "editor.suggest.showUnits": false,
+    "editor.suggest.showSnippets": false,
+    "telemetry.telemetryLevel": "crash",
+    "cSpell.userWords": [
+        "datasource"
+    ],
 }
